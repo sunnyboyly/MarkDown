@@ -1,6 +1,6 @@
-#dome02
-##连接dome
-####内嵌式连接
+#dome02  
+##连接dome  
+####内嵌式连接  
 -外部连接：[百度](http://www.baidu.com)  
 -内部连接：[dome01](dome01.md)  
 -内部连接：[引用dome](dome02.md#引用dome) 
